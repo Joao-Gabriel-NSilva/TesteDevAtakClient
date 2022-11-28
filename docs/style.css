@@ -59,7 +59,7 @@
 
 .input-wrapper i {
     position: absolute;
-    left: 0.5em;
+    left: 0.8em;
     top: 1em;
     color: var(--black);
     cursor: pointer;
